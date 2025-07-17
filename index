@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>70-Day Mental Reset Journal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header class="hero">
+    <div class="container">
+      <h1>🧠 70-Day Mental Reset Journal</h1>
+      <p>Break old patterns, build new habits, and reclaim your focus in just 10 weeks.</p>
+      <a href="#buy" class="cta-button">Get Your Journal</a>
+    </div>
+  </header>
+
+  <section class="about">
+    <div class="container">
+      <h2>What’s Inside</h2>
+      <ul>
+        <li>✅ Daily prompts to reset your mindset</li>
+        <li>✅ Guided reflections for clarity</li>
+        <li>✅ Weekly check-ins for accountability</li>
+        <li>✅ Printable PDF & mobile-friendly design</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="testimonials">
+    <div class="container">
+      <h2>What People Are Saying</h2>
+      <blockquote>“This journal helped me find clarity and purpose after just two weeks.” – Jessica R.</blockquote>
+      <blockquote>“I’ve never been this consistent with journaling before. Game changer!” – Marcus T.</blockquote>
+    </div>
+  </section>
+
+  <section class="buy" id="buy">
+    <div class="container">
+      <h2>Buy the Journal</h2>
+      <p>Instant digital download. Start today. Only <strong>$19.99</strong>.</p>
+      <button onclick="buyNow()">Buy Now</button>
+    </div>
+  </section>
+
+  <section class="faq">
+    <div class="container">
+      <h2>FAQ</h2>
+      <p><strong>Is this a physical or digital product?</strong> It’s a downloadable PDF journal.</p>
+      <p><strong>Can I print it?</strong> Yes, it’s designed to be printer-friendly.</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Mental Reset Journal. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
